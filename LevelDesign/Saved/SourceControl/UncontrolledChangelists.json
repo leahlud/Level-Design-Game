@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Maps/MyLevelDesign.umap",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/UI/Health_Bar.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L_Island1.uasset",
 				"C:/Users/leahl/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap"
 			]
 		}
