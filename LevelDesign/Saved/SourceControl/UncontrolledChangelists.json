@@ -9,6 +9,21 @@
 				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/UI/Health_Bar.uasset",
 				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L_Island1.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/UI/Game_Over.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_PlayerCharacter.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/Interactables/Lever_BP.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_AnimBP.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/BlockGame/PlayerCharacter/BlockCharacter_AnimBP.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BPI_PlayerInteractions.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/BP_Collectible.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/UI/Score_Board.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Assets/Custom/crystal_icon.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/UI/T_Restart.uasset",
+				"C:/Users/leahl/Level-Design-Game/LevelDesign/Content/LearningKit_Games/UI/WBP_Restart.uasset",
 				"C:/Users/leahl/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap"
 			]
 		}
