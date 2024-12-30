@@ -1,6 +1,8 @@
 # Gameplay Overview
 Run, jump, and collect as many collectible gems as possible hidden throughout the custom designed level. Various enemies will try to harm you or knock you off the map as you try to reach the end, including AI controlled enemies that will hunt you down.
 
+**Walkthrough on YouTube:** https://www.youtube.com/watch?v=7AmY3_FRKbc
+
 # Screenshots from Game
 
 ![image](https://github.com/user-attachments/assets/8a15571a-a26e-4695-965d-56cf6849e851)
